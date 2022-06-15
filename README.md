@@ -8,3 +8,4 @@ Data analysis on the Kickstarter project
 [Kickstarter_Challenge.xlsx - Copy.zip](https://github.com/JaxWil24/kickstarter-analysis/files/8911422/Kickstarter_Challenge.xlsx.-.Copy.zip)
 
 # Resources
+[Resources.zip](https://github.com/JaxWil24/kickstarter-analysis/files/8911428/Resources.zip)
