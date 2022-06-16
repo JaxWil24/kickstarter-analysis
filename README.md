@@ -9,3 +9,6 @@ Data analysis on the Kickstarter project
 
 # Resources
 [Resources.zip](https://github.com/JaxWil24/kickstarter-analysis/files/8911428/Resources.zip)
+
+#Written Report
+[Written Report.md](https://github.com/JaxWil24/kickstarter-analysis/files/8918822/Written.Report.md)
