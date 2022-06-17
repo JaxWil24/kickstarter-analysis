@@ -50,5 +50,3 @@ Analysing the Theater Outcomes based on Launch Date and Play Outcomes Based on G
 
 -What are some other possible tables and/or graphs that we could create?
 We could make a pivot chart to analyze what category or subcategory was the most popular for each year or month.
-
-[Written Report.md](https://github.com/JaxWil24/kickstarter-analysis/files/8918868/Written.Report.md)
